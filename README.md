@@ -21,5 +21,9 @@ They present case studies of using CoDe-Graph in co-design workshops with educat
 The paper discusses the process of co-design with CoDe-Graph and how it helps develop a shared understanding among diverse stakeholders.
 So in summary, the authors Allison Kolling, Armin Weinberger, and Helmut Niegemann from Saarland University introduced the CoDe-Graph modeling language for collaborative MOOC design, as described in this paper. 
 
-# CoDe-Graph User Manual
+## CoDe-Graph User Manual
 Refer to the wiki for the user manual
+
+## TO-DO 
+- Current creation of CoDe-Graph for a given scenario can be achieved by using suitable tool/software such as MS Word, MS Powerpoint, and any software that have the ability to add shapes and text.
+- Therefore, we are exploring on how to automate the above process.
