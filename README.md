@@ -22,4 +22,4 @@ The paper discusses the process of co-design with CoDe-Graph and how it helps de
 So in summary, the authors Allison Kolling, Armin Weinberger, and Helmut Niegemann from Saarland University introduced the CoDe-Graph modeling language for collaborative MOOC design, as described in this paper. 
 
 # CoDe-Graph User Manual
-
+Refer to the wiki for the user manual
