@@ -9,7 +9,7 @@ Suggestion for improvement:
 - Sequencing should be obvious to the viewer of a design.
 
 ### Design 1: MC CoDe-Graph traditional design (based on current model)
-![image](https://github.com/johari3275/CoDeGraph/assets/111693027/38a51b60-36da-43a8-b0f7-029895553910)
+![image](https://github.com/johari3275/CoDeGraph/assets/111693027/8482a580-e4e9-4e34-9a26-d8794a3ee809)
 
 Description:
 - Badge element included
