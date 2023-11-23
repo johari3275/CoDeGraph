@@ -9,7 +9,8 @@ Suggestion for improvement:
 - Sequencing should be obvious to the viewer of a design.
 
 ### Design 1: MC CoDe-Graph traditional design (based on current model)
-![image](https://github.com/johari3275/CoDeGraph/assets/111693027/8482a580-e4e9-4e34-9a26-d8794a3ee809)
+![image](https://github.com/johari3275/CoDeGraph/assets/111693027/4bd5df64-be87-4a86-8370-19481b4a8ae1)
+
 
 Description:
 - Badge element included
@@ -47,7 +48,8 @@ F -.Learner succeeds in post-test <br> moves to next pre-test <br> Learner fails
 ```
 
 ### Design 2: MC CoDe-Graph traditional design + Scaffolding block + ELO block
-![image](https://github.com/johari3275/CoDeGraph/assets/111693027/07a46cff-f60c-4dcc-a5df-4691901e380a)
+![image](https://github.com/johari3275/CoDeGraph/assets/111693027/8ab46821-da89-4b7a-9058-c0e605c7a1d0)
+
 
 Description:
 - Study Coordination course as a template
@@ -80,7 +82,8 @@ F -.Learner succeeds in post-test <br> moves to next pre-test <br> Learner fails
 
 ```
 ### Design 3: MC CoDe-Graph BPMN 2.0 oriented
-![image](https://github.com/johari3275/CoDeGraph/assets/111693027/62bc849d-0395-4c33-8734-0d57b9589200)
+![image](https://github.com/johari3275/CoDeGraph/assets/111693027/9bb0b627-278f-4aaf-9e39-12b382e0b0c1)
+
 
 - Shapes of objects oriented at BPMN 2.0
 - Therefore, shape of elements based on the positioning and purpose in the flowchart instead of base shape (e.g., CoDe-Graph building blocks are always the same shape)
@@ -88,3 +91,21 @@ F -.Learner succeeds in post-test <br> moves to next pre-test <br> Learner fails
   - Starting point: circle with a thin outer layer
   - Gateway (Branching): rhombus-shaped object (for feedback in this case)
   - End point: circle with thick outer layer
+
+
+### Viewing the mermaid syntax
+
+Option 1:
+- Copy the above syntax
+- Go to https://mermaid.live
+- Paste in the code section and the diagram will be automatically generated (if there is no syntax error)
+
+![image](https://github.com/johari3275/CoDeGraph/assets/111693027/a8d3fedc-d265-4108-9575-b06a9f5ecd09)
+
+Option 2:
+- Copy the above syntax
+- Go to https://draw.io
+- Go to Arrange option -> Insert -> Advanced -> mermaid
+
+![image](https://github.com/johari3275/CoDeGraph/assets/111693027/c327e275-ddfe-4ad6-9234-2263e671bdc0)
+
