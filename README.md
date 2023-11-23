@@ -27,3 +27,7 @@ Refer to the wiki for the user manual
 ## TO-DO 
 - Current creation of CoDe-Graph for a given scenario can be achieved by using suitable tool/software such as MS Word, MS Powerpoint, and any software that have the ability to add shapes and text.
 - Therefore, we are exploring on how to automate the above process.
+
+
+### Checkout our attempt to adopt mermaid syntax to generate CoDeGraph
+[Link](ImplementCDG.md)
